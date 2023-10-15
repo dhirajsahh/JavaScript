@@ -1,0 +1,13 @@
+const balance = new Number(100);
+// console.log(balance.toFixed(2));
+// console.log(balance.toPrecision(4));
+// console.log(Math.round(3.8));
+// console.log(Math.floor(3.8));
+// console.log(Math.ceil(3.8));
+// console.log(Math.floor(Math.random() * 10 + 1));
+const array1 = [1, 3, 5, 3];
+// console.log(Math.min(...array1));
+// console.log(Math.max(...array1));
+const min = 6;
+const max = 21;
+console.log(Math.floor(Math.random() * (max - min + 1) + min));
