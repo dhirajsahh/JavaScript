@@ -32,3 +32,7 @@ let someNumber = 33;
 let stringNumber = String(someNumber); //33=>"33"
 console.log(stringNumber);
 console.log(typeof stringNumber);
+//operator
+console.log("2" + 2);
+console.log(1 + 2 + "2"); //string na aaunae jal samma add garxa
+console.log("1" + 2 + 2); // first ma string aayo vane sablai string nai manxa
