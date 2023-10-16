@@ -8,3 +8,8 @@ console.log(arr.includes(2));
 
 //splice ma original array manipulate hunxa
 //slice ma original array manipulate hudaina
+const array1 = [1, 2, 3, 4];
+const array2 = ["a", "b", "c", "d"];
+const array3 = [...array1, ...array2];
+console.log(array3);
+const array4 = [...array1];
