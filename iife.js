@@ -1,3 +1,4 @@
+//()() the first one is for function and second one is for its call
 (function sum() {
   console.log(3 + 4);
 })();
